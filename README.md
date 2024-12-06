@@ -1,4 +1,4 @@
-# DystysSpeedTest
+# DustysSpeedTest
 
 DustysSpeedTest is a Python-based tool designed to measure your internet speed. It utilizes the `speedtest` library to provide accurate results for download, upload, and ping. The project is packaged using `pyinstaller` for easy distribution.
 
