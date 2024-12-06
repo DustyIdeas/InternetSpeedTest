@@ -1,6 +1,6 @@
-# Custom Usage License for InternetSpeedTest
+# Custom Usage License for DustysSpeedTest
 
-This document governs the use, distribution, and representation of **InternetSpeedTest**. By accessing or using this work, you agree to the following terms and conditions:
+This document governs the use, distribution, and representation of **DustysSpeedTest**. By accessing or using this work, you agree to the following terms and conditions:
 
 ---
 
