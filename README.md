@@ -30,7 +30,7 @@ This project is licensed under the **Custom Usage License**. For details, see th
 
 ## Contributing
 
-Contributions are welcome! However, due to the nature of the license, modifications to the core code are not permitted. Feel free to share ideas or report bugs through the [Issues](#) section (replace with your link if hosting on GitHub).
+Contributions are welcome! However, due to the nature of the license, modifications to the core code are not permitted. Feel free to share ideas or report bugs through the [Issues](#) section.
 
 ---
 
