@@ -15,7 +15,7 @@ DustysSpeedTest is a Python-based tool designed to measure your internet speed. 
 ## Important Notes
 
 - **Antivirus Warning**:  
-  The tool is obfuscated and packaged using `pyinstaller`, which might trigger false positives in some antivirus software. Be assured that the project is safe to use.
+  The tool is obfuscated and packaged using `pyinstaller`, which might trigger false positives in some antivirus software. I want you to know that the project is safe to use.
 
 - **Compatibility**:  
   This project is compatible with most modern operating systems, including Windows and Linux.
@@ -24,7 +24,7 @@ DustysSpeedTest is a Python-based tool designed to measure your internet speed. 
 
 ## License
 
-This project is licensed under the **Custom Usage License**. For details, see the [LICENSE.md](LICENSE.md).
+This project is licensed under the **Custom Usage License**. For details, please look at the [LICENSE.md](LICENSE.md).
 
 ---
 
