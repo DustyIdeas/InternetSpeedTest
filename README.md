@@ -24,7 +24,7 @@ DustysSpeedTest is a Python-based tool designed to measure your internet speed. 
 
 ## License
 
-This project is licensed under the **Custom Usage License**. For details, please look at the [LICENSE.md](LICENSE.md).
+This project is licensed under the **Custom Usage License**. For details, please look at the [LICENSE.md](LICENCE.md).
 
 ---
 
